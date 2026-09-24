@@ -98,7 +98,6 @@ Oxford-Pet-CNN/
 ├── Oxford_Pet_CNN.ipynb
 ├── CNN_GUI.py
 ├── README.md
-├── requirements.txt
 └── models/
     └── resnet_pet.pth
 ```
